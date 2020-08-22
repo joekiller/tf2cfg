@@ -11,19 +11,24 @@ and 1 respectively (Saw, Bolt, Medigun).
 Specialties include:
   * Class bassed quick change. F1-F9
   * Jump and Duck Bindings for easier rocket/sicky jumps.
+
 Spy:
   * cloak 1-9 for classes, 0 for change team cloak.
   * backspace to drop flag and disguise.
+
 Engineer:
   * 1-4 toggles buildings. 
   * Shift + 1-4 toggles destruction of building.
   * Middle click spams wrench
+
 Medic:
   * Taunt is unbound.
   * "A" says "Behind You!"
   * Q,W,R are bound to slots 3, 2, and 1 respectively (Saw, Bolt, Medigun)
+
 Demoman:
   * "A" bound to rocketjump alias which jumps, ducks and attack2.
+  
 Soldier:
   * Mouse2 bound to rocketjump alias.
 
